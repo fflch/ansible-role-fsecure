@@ -6,7 +6,7 @@
 
   2. Parar o serviço
 
-    systemctl stop fspms
+    systemctl stop fspms # na nuvem só funcionou com /etc/init.d/fspms stop/start
     
   3. O arquivo 2024_08_25_23_01_04.backup.zip depois de descompactado, gera um arquivo com o nome fspms.h2.db. Subistituir esse arquivo em /var/opt/f-secure/fspms/data/h2db/fspms.h2.db:
 
