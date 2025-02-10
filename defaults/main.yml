@@ -1,7 +1,7 @@
 ---
 # defaults file for fileserver
 
-fsecure_policy_manager_server_url: "https://download.withsecure.com/corpro/pm_linux/pm_linux16.02/wspms_16.02.98349_amd64.deb"
+fsecure_policy_manager_server_url: "https://download.withsecure.com/corpro/pm_linux/pm_linux16.03/wspms_16.03.98383_amd64.deb"
 fsecure_http_port: "80"
 fsecure_https_port: "443"
 fsecure_admin_interface_port: "8080"
