@@ -45,4 +45,10 @@ Redirecionamentos das portas na internuvem:
 
 3. Usuário padrão é admin e a senha está definida no playbook
 
+Disparando uma atualização da versão do f-secure para os clientes windows:
+
+- Acessar o policy manager a partir do policy manager console no windows
+- baixar o arquivo jar do Client Security https://www.withsecure.com/en/support/product-support/business-suite/client-security#download
+- 
+
 
